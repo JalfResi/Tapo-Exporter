@@ -1,0 +1,9 @@
+certifi==2021.10.8
+chardet==3.0.4
+idna==2.10
+pkcs7==0.1.2
+pycryptodome==3.9.8
+PyP100==0.0.18
+urllib3==1.25.11
+prometheus-client==0.13.1
+requests==2.24.0
